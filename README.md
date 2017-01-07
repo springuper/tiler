@@ -65,17 +65,3 @@ tiler.on('dep', row => {
 // start to bundle
 tiler.bundle();
 ```
-
-## Contribute
-
-```bash
-# clone repo
-$ git clone git@10.3.4.127:ucarfe/tiler.git
-$ cd tiler
-
-# install
-$ npm install
-
-# change something, then run test cases
-$ npm test
-```
