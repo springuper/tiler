@@ -1,6 +1,8 @@
 # Tiler
 
-![tiler](http://10.3.4.127:8888/shangchun/tiler/raw/master/logo.jpg)
+[![Build Status](https://travis-ci.org/springuper/tiler.svg?branch=master)](https://travis-ci.org/springuper/tiler)
+
+![tiler](./logo.jpg)
 
 Pack up static resources.
 
