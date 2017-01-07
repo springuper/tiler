@@ -1,0 +1,13 @@
+.data-component-address-selector {
+  display: none;
+}
+
+.highlight {
+  font-weight: bold;
+  background: url(../../img/fav_star.png);
+}
+
+.dialog {
+  position: absolute;
+  background: url(../../img/help.png);
+}
